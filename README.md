@@ -14,6 +14,7 @@ Node.js + Express + MongoDB + Mongoose backend for Category CRUD.
 3. Start development server:
    npm run dev
 
+
 ## API
 
 POST   /api/categories
